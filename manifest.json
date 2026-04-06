@@ -1,0 +1,10 @@
+{
+  "id": "press-e-for-edit",
+  "name": "Press E for Edit",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Press E in reading mode to switch to edit mode. Like Vim, but just the one part you actually want.",
+  "author": "sachio222",
+  "authorUrl": "https://github.com/sachio222",
+  "isDesktopOnly": false
+}
